@@ -1,0 +1,31 @@
+.headerdiv
+{
+  width:100%; 
+  float:left;
+  margin: 20px;
+  border-bottom: 1px solid gray;
+}
+.menudiv
+{
+    width: 900px;
+    float:left;
+}
+.menuul
+{
+    display: flex;
+    list-style: none;   
+    padding: auto;
+    margin: 10px auto;
+}
+.menuli
+{
+    padding: 0 10px;
+    text-decoration: none;
+}
+.menulia{
+    text-decoration: none;
+}
+.seachdiv
+{
+    text-decoration: none;
+}

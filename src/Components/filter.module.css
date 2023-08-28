@@ -1,0 +1,10 @@
+.filterdiv
+{
+    width:90%;
+    margin: 0 auto;
+}
+.filterp, .filselling
+{
+    width: 50%;
+    float: left;
+}
